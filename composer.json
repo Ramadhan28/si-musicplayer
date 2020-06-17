@@ -1,0 +1,14 @@
+{
+    "name": "himitsu/si-musicplayer-master",
+    "description": "Praktikum 7 Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Ramadhan",
+            "email": "Ramadhanp333@gmail.com"
+        }
+    ]
+}
